@@ -1,5 +1,7 @@
 # NimOnTeX
 
+This project is under active development.
+
 A Nim game engine implemented entirely in TeX macro expansion system.
 
 ---
